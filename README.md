@@ -25,10 +25,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" />
       <br>Python
     </td>
-    <td align="center" width="120" height="90">
-      <img src="https://ex-codes.gallerycdn.vsassets.io/extensions/ex-codes/pine-script-syntax-highlighter/1.0.5/1645237303182/Microsoft.VisualStudio.Services.Icons.Default" width="36" height="36" alt="Pine Script" />
-      <br>Pine Script
-    </td>
     <td align="center" width="110" height="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
       <br>JavaScript
@@ -65,25 +61,21 @@
 </table>
 
 <blockquote>
-<p dir="auto">Frontend</p>
+<p dir="auto">Trading Specific</p>
 </blockquote>
 <table width="100%">
   <tr>
     <td align="center" width="110" height="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" />
-      <br>React
+      <img src="https://ex-codes.gallerycdn.vsassets.io/extensions/ex-codes/pine-script-syntax-highlighter/1.0.5/1645237303182/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="36" alt="Pine Script" />
+      <br>Pine Script
     </td>
     <td align="center" width="110" height="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="36" height="36" alt="Sass" />
-      <br>Sass
+      <img src="https://crystalpng.com/wp-content/uploads/2025/03/tradingview_logo.png" width="36" height="36" alt="Lightweight Charts" />
+      <br>LW Charts
     </td>
-    <td align="center" width="110" height="90">
-      <img src="https://camo.githubusercontent.com/118beaba8872ecd1cc0fa048abc853d8a1717a549bd2627eade643e4a5fd66d3/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" width="36" height="36" alt="Vite" />
-      <br>Vite
-    </td>
-    <td align="center" width="110" height="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="Bootstrap" />
-      <br>Bootstrap
+    <td align="center" width="110">
+      <img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" width="36" alt="Broker APIs"/>
+      <br>Broker APIs
     </td>
   </tr>
 </table>
@@ -94,16 +86,16 @@
 <table width="100%">
   <tr>
     <td align="center" width="110" height="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="36" height="36" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="110" height="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node JS" />
       <br>Node JS
     </td>
     <td align="center" width="110" height="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" height="36" alt="Express" />
       <br>Express
-    </td>
-    <td align="center" width="110" height="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="36" height="36" alt="Flask" />
-      <br>Flask
     </td>
     <td align="center" width="110" height="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
@@ -113,9 +105,29 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="36" height="36" alt="SQLite" />
       <br>SQLite
     </td>
+  </tr>
+</table>
+
+<blockquote>
+<p dir="auto">Frontend</p>
+</blockquote>
+<table width="100%">
+  <tr>
     <td align="center" width="110" height="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="36" height="36" alt="Prisma" />
-      <br>Prisma
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://camo.githubusercontent.com/118beaba8872ecd1cc0fa048abc853d8a1717a549bd2627eade643e4a5fd66d3/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" width="36" height="36" alt="Vite" />
+      <br>Vite
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="36" height="36" alt="Sass" />
+      <br>Sass
+    </td>
+    <td align="center" width="110" height="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="Bootstrap" />
+      <br>Bootstrap
     </td>
   </tr>
 </table>
@@ -145,10 +157,6 @@
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRacFRGA2LUub2tW1msStkDLbZX8-Idsj8zkw&s" width="36" height="36" alt="Seaborn" />
       <br>Seaborn
     </td>
-    <td align="center" width="180" height="90">
-      <img src="https://crystalpng.com/wp-content/uploads/2025/03/tradingview_logo.png" width="36" height="36" alt="Lightweight Charts" />
-      <br>Lightweight Charts
-    </td>
   </tr>
 </table>
 
@@ -168,10 +176,5 @@
     <td align="center" width="110" height="90">
       <img src="https://camo.githubusercontent.com/cf42e6a59e956a87db0d3649b1781eede91c1fd8711e05df5afffde6c12d14a7/68747470733a2f2f6272616e646570732e636f6d2f6c6f676f2d646f776e6c6f61642f532f5374796c656c696e742d6c6f676f2d766563746f722d30312e737667" width="36" height="36" alt="Stylelint" />
       <br>Stylelint
-    </td>
-    <td align="center" width="110" height="90">
-      <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" width="36" height="36" alt="GitHub Actions" />
-      <br>GitHub Actions
-    </td>
   </tr>
 </table>

@@ -2,7 +2,6 @@
 
 **Trading Software Engineer** with 6+ years of experience in quantitative systems.
 
-🏢 Currently working independently  
 🍿 Check out my [YouTube channel](https://youtube.com/@kitoboynaya)  
 💬 Join my [Telegram community](https://t.me/Kitoboynaya)  
 

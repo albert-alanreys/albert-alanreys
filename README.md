@@ -140,6 +140,18 @@
       <br>Prettier
     </td>
     <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="36" height="36" alt="Pytest" /></a>
+      <br>Pytest
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://icon.icepanel.io/Technology/svg/Jest.svg" width="36" height="36" alt="Jest" /></a>
+      <br>Jest
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="36" height="36" alt="Playwright" /></a>
+      <br>Playwright
+    </td>
+    <td align="center" width="110" height="90">
       <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" /></a>
       <br>Postman
     </td>

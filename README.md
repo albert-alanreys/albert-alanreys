@@ -27,10 +27,6 @@
       <a href="#tech-stack"><img src="https://crystalpng.com/wp-content/uploads/2025/03/tradingview_logo.png" width="36" height="36" alt="Lightweight Charts" /></a>
       <br>LW Charts
     </td>
-    <td align="center" width="110">
-      <a href="#tech-stack"><img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" width="36" alt="Broker APIs"/></a>
-      <br>Broker APIs
-    </td>
     <td align="center" width="110" height="90">
       <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="pandas" /></a>
       <br>pandas
@@ -42,10 +38,6 @@
     <td align="center" width="110" height="90">
       <a href="#tech-stack"><img src="https://numba.pydata.org/_static/numba-blue-icon-rgb.svg" width="36" height="36" alt="Numba" /></a>
       <br>Numba
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="36" height="36" alt="Matplotlib" /></a>
-      <br>Matplotlib
     </td>
   </tr>
 </table>
@@ -64,16 +56,12 @@
       <br>CSS3
     </td>
     <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="36" height="36" alt="Sass" /></a>
-      <br>Sass
-    </td>
-    <td align="center" width="110" height="90">
       <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>
       <br>JavaScript
     </td>
     <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" /></a>
-      <br>React
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue" /></a>
+      <br>Vue
     </td>
     <td align="center" width="110" height="90">
       <a href="#tech-stack"><img src="https://camo.githubusercontent.com/118beaba8872ecd1cc0fa048abc853d8a1717a549bd2627eade643e4a5fd66d3/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" width="36" height="36" alt="Vite" /></a>
@@ -115,10 +103,6 @@
       <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
       <br>PostgreSQL
     </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="36" height="36" alt="SQLite" /></a>
-      <br>SQLite
-    </td>
   </tr>
 </table>
 
@@ -146,10 +130,6 @@
     <td align="center" width="110" height="90">
       <a href="#tech-stack"><img src="https://icon.icepanel.io/Technology/svg/Jest.svg" width="36" height="36" alt="Jest" /></a>
       <br>Jest
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="36" height="36" alt="Playwright" /></a>
-      <br>Playwright
     </td>
     <td align="center" width="110" height="90">
       <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" /></a>

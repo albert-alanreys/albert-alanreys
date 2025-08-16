@@ -5,13 +5,6 @@
 🍿 Check out my [YouTube channel](https://youtube.com/@kitoboynaya)  
 💬 Join my [Telegram community](https://t.me/Kitoboynaya)  
 
-## 🧠 Interests
-
-- Building tools for **automated trading** and **quantitative analysis**
-- **Frontend technologies** and building modern web interfaces
-- Designing scalable **backend** architectures & efficient APIs
-- **Quality assurance** practices in software development
-
 ## <a id="tech-stack"></a> 🔥 Tech stack
 
 <blockquote>

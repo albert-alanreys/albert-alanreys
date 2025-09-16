@@ -53,16 +53,16 @@
       <br>JavaScript
     </td>
     <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue" /></a>
-      <br>Vue
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" /></a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" /></a>
+      <br>React
     </td>
     <td align="center" width="110" height="90">
       <a href="#tech-stack"><img src="https://camo.githubusercontent.com/118beaba8872ecd1cc0fa048abc853d8a1717a549bd2627eade643e4a5fd66d3/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" width="36" height="36" alt="Vite" /></a>
       <br>Vite
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="36" height="36" alt="Yarn" /></a>
-      <br>Yarn
     </td>
   </tr>
 </table>
@@ -143,6 +143,14 @@
     <td align="center" width="110" height="90">
       <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub" /></a>
       <br>GitHub
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg" width="36" height="36" alt="npm" /></a>
+      <br>npm
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="36" height="36" alt="Yarn" /></a>
+      <br>Yarn
     </td>
   </tr>
 </table>

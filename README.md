@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Albert Alan-Reys
 
-**Full-Stack Software Engineer** with 6+ years of experience in quantitative systems.
+**Full-Stack Software Engineer** with 6+ years of experience.
 
 🍿 Check out my [YouTube channel](https://youtube.com/@kitoboynaya)  
 💬 Join my [Telegram community](https://t.me/Kitoboynaya)  

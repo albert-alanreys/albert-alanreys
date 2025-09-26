@@ -105,6 +105,14 @@
 <table width="100%">
   <tr>
     <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="36" height="36" alt="Pytest" /></a>
+      <br>Pytest
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" /></a>
+      <br>Postman
+    </td>
+    <td align="center" width="110" height="90">
       <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="36" height="36" alt="ESLint" /></a>
       <br>ESLint
     </td>
@@ -115,18 +123,6 @@
     <td align="center" width="110" height="90">
       <a href="#tech-stack"><img src="https://camo.githubusercontent.com/6c8d72f388e2d6b04f54e4728fc0ec659585f16fa9cdedbbd651ea4a621d0378/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f502f50726574746965722d69636f6e2d766563746f722d30322e737667" width="36" height="36" alt="Prettier" /></a>
       <br>Prettier
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="36" height="36" alt="Pytest" /></a>
-      <br>Pytest
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://icon.icepanel.io/Technology/svg/Jest.svg" width="36" height="36" alt="Jest" /></a>
-      <br>Jest
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" /></a>
-      <br>Postman
     </td>
   </tr>
 </table>
@@ -145,8 +141,8 @@
       <br>GitHub
     </td>
     <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg" width="36" height="36" alt="npm" /></a>
-      <br>npm
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" /></a>
+      <br>Docker
     </td>
     <td align="center" width="110" height="90">
       <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="36" height="36" alt="Yarn" /></a>

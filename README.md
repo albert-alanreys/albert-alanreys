@@ -8,29 +8,33 @@
 ## <a id="tech-stack"></a> 🔥 Tech stack
 
 <blockquote>
-<p dir="auto">Algorithmic Trading & Data Analysis</p>
+<p dir="auto">Backend Development</p>
 </blockquote>
 <table width="100%">
   <tr>
     <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://ex-codes.gallerycdn.vsassets.io/extensions/ex-codes/pine-script-syntax-highlighter/1.0.5/1645237303182/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="36" alt="Pine Script" /></a>
-      <br>Pine Script
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
+      <br>Python
     </td>
     <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://crystalpng.com/wp-content/uploads/2025/03/tradingview_logo.png" width="36" height="36" alt="Lightweight Charts" /></a>
-      <br>LW Charts
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI" /></a>
+      <br>FastAPI
     </td>
     <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="pandas" /></a>
-      <br>pandas
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="36" height="36" alt="Flask" /></a>
+      <br>Flask
     </td>
     <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" alt="numpy" /></a>
-      <br>NumPy
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" /></a>
+      <br>Node.js
     </td>
     <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://numba.pydata.org/_static/numba-blue-icon-rgb.svg" width="36" height="36" alt="Numba" /></a>
-      <br>Numba
+      <a href="#tech-stack"><img src="https://icon.icepanel.io/Technology/svg/SQL-Developer.svg" width="36" height="36" alt="SQL" /></a>
+      <br>SQL
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
+      <br>PostgreSQL
     </td>
   </tr>
 </table>
@@ -68,38 +72,6 @@
 </table>
 
 <blockquote>
-<p dir="auto">Backend Development</p>
-</blockquote>
-<table width="100%">
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
-      <br>Python
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="36" height="36" alt="Flask" /></a>
-      <br>Flask
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" /></a>
-      <br>Node.js
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" height="36" alt="Express" /></a>
-      <br>Express
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://icon.icepanel.io/Technology/svg/SQL-Developer.svg" width="36" height="36" alt="SQL" /></a>
-      <br>SQL
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
-      <br>PostgreSQL
-    </td>
-  </tr>
-</table>
-
-<blockquote>
 <p dir="auto">Quality Assurance</p>
 </blockquote>
 <table width="100%">
@@ -107,6 +79,10 @@
     <td align="center" width="110" height="90">
       <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="36" height="36" alt="Pytest" /></a>
       <br>Pytest
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="36" height="36" alt="Playwright" /></a>
+      <br>Playwright
     </td>
     <td align="center" width="110" height="90">
       <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" /></a>
@@ -145,8 +121,40 @@
       <br>Docker
     </td>
     <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="36" height="36" alt="Kubernetes" /></a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="110" height="90">
       <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="36" height="36" alt="Yarn" /></a>
       <br>Yarn
+    </td>
+  </tr>
+</table>
+
+<blockquote>
+<p dir="auto">Algorithmic Trading & Data Analysis</p>
+</blockquote>
+<table width="100%">
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://ex-codes.gallerycdn.vsassets.io/extensions/ex-codes/pine-script-syntax-highlighter/1.0.5/1645237303182/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="36" alt="Pine Script" /></a>
+      <br>Pine Script
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://crystalpng.com/wp-content/uploads/2025/03/tradingview_logo.png" width="36" height="36" alt="Lightweight Charts" /></a>
+      <br>LW Charts
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="pandas" /></a>
+      <br>pandas
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" alt="numpy" /></a>
+      <br>NumPy
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://numba.pydata.org/_static/numba-blue-icon-rgb.svg" width="36" height="36" alt="Numba" /></a>
+      <br>Numba
     </td>
   </tr>
 </table>

@@ -2,48 +2,17 @@
 
 **Full-Stack Software Engineer** with 6+ years of experience.
 
-🍿 Check out my [YouTube channel](https://youtube.com/@kitoboynaya)  
+🐿 Check out my [YouTube channel](https://youtube.com/@kitoboynaya)  
 💬 Join my [Telegram community](https://t.me/Kitoboynaya)  
 
 ## <a id="tech-stack"></a> 🔥 Tech stack
 
 <blockquote>
-<p dir="auto">Backend Development</p>
-</blockquote>
-<table width="100%">
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
-      <br>Python
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI" /></a>
-      <br>FastAPI
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="36" height="36" alt="Flask" /></a>
-      <br>Flask
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" /></a>
-      <br>Node.js
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://icon.icepanel.io/Technology/svg/SQL-Developer.svg" width="36" height="36" alt="SQL" /></a>
-      <br>SQL
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
-      <br>PostgreSQL
-    </td>
-  </tr>
-</table>
-
-<blockquote>
 <p dir="auto">Frontend Development</p>
 </blockquote>
 <table width="100%">
-  <tr>
+ <tbody>
+  <tr style="background-color: transparent;">
     <td align="center" width="110" height="90">
       <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /></a>
       <br>HTML5
@@ -65,17 +34,83 @@
       <br>React
     </td>
     <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next JS" /></a>
+      <br>Next JS
+    </td>
+  </tr>
+  <tr></tr>
+  <tr style="background-color: transparent;">
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" /></a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://github.com/devicons/devicon/raw/master/icons/sass/sass-original.svg" width="36" height="36" alt="Sass" /></a>
+      <br>Sass
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://github.com/devicons/devicon/raw/master/icons/zustand/zustand-original.svg" width="36" height="36" alt="Zustand" /></a>
+      <br>Zustand
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="36" height="36" alt="TanStack Query" /></a>
+      <br>Tanstack
+    </td>
+    <td align="center" width="110" height="90">
       <a href="#tech-stack"><img src="https://camo.githubusercontent.com/118beaba8872ecd1cc0fa048abc853d8a1717a549bd2627eade643e4a5fd66d3/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" width="36" height="36" alt="Vite" /></a>
       <br>Vite
     </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="36" height="36" alt="Webpack" /></a>
+      <br>Webpack
+    </td>
+  </tr>
+ </tbody>
+</table>
+
+<blockquote>
+<p dir="auto">Backend Development</p>
+</blockquote>
+<table width="100%">
+  <tr style="background-color: transparent;">
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" /></a>
+      <br>Node.js
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="36" height="36" alt="Nest JS" /></a>
+      <br>Nest JS
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
+      <br>Python
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="36" height="36" alt="Flask" /></a>
+      <br>Flask
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://icon.icepanel.io/Technology/svg/SQL-Developer.svg" width="36" height="36" alt="SQL" /></a>
+      <br>SQL
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="36" height="36" alt="Prisma" /></a>
+      <br>Prisma
+    </td>
   </tr>
 </table>
+
+
 
 <blockquote>
 <p dir="auto">Quality Assurance</p>
 </blockquote>
 <table width="100%">
-  <tr>
+  <tr style="background-color: transparent;">
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="36" height="36" alt="Jest" /></a>
+      <br>Jest
+    </td>
     <td align="center" width="110" height="90">
       <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="36" height="36" alt="Pytest" /></a>
       <br>Pytest
@@ -83,10 +118,6 @@
     <td align="center" width="110" height="90">
       <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="36" height="36" alt="Playwright" /></a>
       <br>Playwright
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" /></a>
-      <br>Postman
     </td>
     <td align="center" width="110" height="90">
       <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="36" height="36" alt="ESLint" /></a>
@@ -107,7 +138,7 @@
 <p dir="auto">Other Technologies</p>
 </blockquote>
 <table width="100%">
-  <tr>
+  <tr style="background-color: transparent;">
     <td align="center" width="110" height="90">
       <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
       <br>Git
@@ -117,44 +148,20 @@
       <br>GitHub
     </td>
     <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" /></a>
-      <br>Docker
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="36" height="36" alt="Kubernetes" /></a>
-      <br>Kubernetes
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="36" height="36" alt="npm" /></a>
+      <br>npm
     </td>
     <td align="center" width="110" height="90">
       <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="36" height="36" alt="Yarn" /></a>
       <br>Yarn
     </td>
-  </tr>
-</table>
-
-<blockquote>
-<p dir="auto">Algorithmic Trading & Data Analysis</p>
-</blockquote>
-<table width="100%">
-  <tr>
     <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://ex-codes.gallerycdn.vsassets.io/extensions/ex-codes/pine-script-syntax-highlighter/1.0.5/1645237303182/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="36" alt="Pine Script" /></a>
-      <br>Pine Script
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" /></a>
+      <br>Docker
     </td>
     <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://crystalpng.com/wp-content/uploads/2025/03/tradingview_logo.png" width="36" height="36" alt="Lightweight Charts" /></a>
-      <br>LW Charts
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="pandas" /></a>
-      <br>pandas
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" alt="numpy" /></a>
-      <br>NumPy
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack"><img src="https://numba.pydata.org/_static/numba-blue-icon-rgb.svg" width="36" height="36" alt="Numba" /></a>
-      <br>Numba
+      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" /></a>
+      <br>Figma
     </td>
   </tr>
 </table>
